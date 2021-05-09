@@ -1,1 +1,1 @@
-# Brain-Tumor-detection-machine-vision-project-
+# Tumor Detection In Brain Using Morphological Image Processing
